@@ -50,3 +50,9 @@ Database certification received from the Oracle Corporation
 ​​Programming languages:​ ​Java, Lua, Limited C# experience​ 
 
 ​​Computer software/ frameworks:​  ​Microsoft Office, Github, Eclipse IDE, Microsoft Visual Studio​ 
+
+
+Projects
+
+https://github.com/elelelelijah/Tank-Shell-Capability-Armor-Penetration-Calculator
+
