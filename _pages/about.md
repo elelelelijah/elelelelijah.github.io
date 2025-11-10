@@ -54,8 +54,8 @@ Database certification received from the Oracle Corporation
 
 Projects
 
-Tank Shell Capability/Armor Penetration Calculator:
+[Tank Shell Capability/Armor Penetration Calculator:](https://github.com/elelelelijah/Tank-Shell-Capability-Armor-Penetration-Calculator)
 This is a tool use to calculate the amount of armor a tank shell can perforate. 
 Unzip the files and put them into any Java IDE of your choice.
-https://github.com/elelelelijah/Tank-Shell-Capability-Armor-Penetration-Calculator
+
 
