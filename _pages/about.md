@@ -62,7 +62,7 @@ Unzip the files and put them into any Java IDE of your choice.
 This is a rudimentary piano app built in Java with assistance from the WindowBuilder plugin. Features a 61 key piano (C2-C7), a metronome, and a list of scales. 
 
 [Scales Helper:](https://github.com/elelelelijah/Scaleshelper)
-This is simple console output program built in Java meant to help you memorize your scales. 
+This is a simple console output program built in Java meant to help you memorize your scales. 
 
 [Deployment Page:](https://github.com/WyattLewandowski/startPageUi)
 This was a proof-of-concept UI that I worked on for a government project.
